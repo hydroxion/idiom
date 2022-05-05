@@ -1,7 +1,7 @@
 
 #### Idiomatic
 
-:love_hotel: Aducational game with Unity 3D and C#
+Aducational game with Unity 3D and C#
 
 #### About
 
